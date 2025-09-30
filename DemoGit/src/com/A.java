@@ -6,6 +6,8 @@ public class A
 		{
 			System.out.println("Demo----");
 			System.out.println("Update---");
+			System.out.println("Updatedd---");
 		}
 	}
+
 
